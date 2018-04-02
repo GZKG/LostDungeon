@@ -1,3 +1,3 @@
 # LostDungeon
 
-[see Document here](./document.md)
+[see Document here](./doc/document.md)
